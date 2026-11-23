@@ -1,0 +1,140 @@
+﻿Round: 1
+Stored value: 1
+Updated value: 8
+Reloaded value: 8
+Round: 2
+Stored value: 2
+Updated value: 9
+Reloaded value: 9
+Round: 3
+Stored value: 3
+Updated value: 10
+Reloaded value: 10
+Round: 4
+Stored value: 4
+Updated value: 11
+Reloaded value: 11
+Round: 5
+Stored value: 5
+Updated value: 12
+Reloaded value: 12
+Round: 6
+Stored value: 6
+Updated value: 13
+Reloaded value: 13
+Round: 7
+Stored value: 7
+Updated value: 14
+Reloaded value: 14
+Round: 8
+Stored value: 8
+Updated value: 15
+Reloaded value: 15
+Round: 9
+Stored value: 9
+Updated value: 16
+Reloaded value: 16
+Round: 10
+Stored value: 10
+Updated value: 17
+Reloaded value: 17
+Round: 11
+Stored value: 11
+Updated value: 18
+Reloaded value: 18
+Round: 12
+Stored value: 12
+Updated value: 19
+Reloaded value: 19
+Round: 13
+Stored value: 13
+Updated value: 20
+Reloaded value: 20
+Round: 14
+Stored value: 14
+Updated value: 21
+Reloaded value: 21
+Round: 15
+Stored value: 15
+Updated value: 22
+Reloaded value: 22
+Round: 16
+Stored value: 16
+Updated value: 23
+Reloaded value: 23
+Round: 17
+Stored value: 17
+Updated value: 24
+Reloaded value: 24
+Round: 18
+Stored value: 18
+Updated value: 25
+Reloaded value: 25
+Round: 19
+Stored value: 19
+Updated value: 26
+Reloaded value: 26
+Round: 20
+Stored value: 20
+Updated value: 27
+Reloaded value: 27
+Round: 21
+Stored value: 21
+Updated value: 28
+Reloaded value: 28
+Round: 22
+Stored value: 22
+Updated value: 29
+Reloaded value: 29
+Round: 23
+Stored value: 23
+Updated value: 30
+Reloaded value: 30
+Round: 24
+Stored value: 24
+Updated value: 31
+Reloaded value: 31
+Round: 25
+Stored value: 25
+Updated value: 32
+Reloaded value: 32
+Round: 26
+Stored value: 26
+Updated value: 33
+Reloaded value: 33
+Round: 27
+Stored value: 27
+Updated value: 34
+Reloaded value: 34
+Round: 28
+Stored value: 28
+Updated value: 35
+Reloaded value: 35
+Round: 29
+Stored value: 29
+Updated value: 36
+Reloaded value: 36
+Round: 30
+Stored value: 30
+Updated value: 37
+Reloaded value: 37
+Round: 31
+Stored value: 31
+Updated value: 38
+Reloaded value: 38
+Round: 32
+Stored value: 32
+Updated value: 39
+Reloaded value: 39
+Round: 33
+Stored value: 33
+Updated value: 40
+Reloaded value: 40
+Round: 34
+Stored value: 34
+Updated value: 41
+Reloaded value: 41
+Round: 35
+Stored value: 35
+Updated value: 42
+Reloaded value: 4

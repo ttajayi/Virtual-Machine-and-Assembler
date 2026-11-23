@@ -1,0 +1,140 @@
+﻿Round: 1
+Copied register: 1
+After register addition: 4
+After register multiplication: 12
+Round: 2
+Copied register: 2
+After register addition: 5
+After register multiplication: 15
+Round: 3
+Copied register: 3
+After register addition: 6
+After register multiplication: 18
+Round: 4
+Copied register: 4
+After register addition: 7
+After register multiplication: 21
+Round: 5
+Copied register: 5
+After register addition: 8
+After register multiplication: 24
+Round: 6
+Copied register: 6
+After register addition: 9
+After register multiplication: 27
+Round: 7
+Copied register: 7
+After register addition: 10
+After register multiplication: 30
+Round: 8
+Copied register: 8
+After register addition: 11
+After register multiplication: 33
+Round: 9
+Copied register: 9
+After register addition: 12
+After register multiplication: 36
+Round: 10
+Copied register: 10
+After register addition: 13
+After register multiplication: 39
+Round: 11
+Copied register: 11
+After register addition: 14
+After register multiplication: 42
+Round: 12
+Copied register: 12
+After register addition: 15
+After register multiplication: 45
+Round: 13
+Copied register: 13
+After register addition: 16
+After register multiplication: 48
+Round: 14
+Copied register: 14
+After register addition: 17
+After register multiplication: 51
+Round: 15
+Copied register: 15
+After register addition: 18
+After register multiplication: 54
+Round: 16
+Copied register: 16
+After register addition: 19
+After register multiplication: 57
+Round: 17
+Copied register: 17
+After register addition: 20
+After register multiplication: 60
+Round: 18
+Copied register: 18
+After register addition: 21
+After register multiplication: 63
+Round: 19
+Copied register: 19
+After register addition: 22
+After register multiplication: 66
+Round: 20
+Copied register: 20
+After register addition: 23
+After register multiplication: 69
+Round: 21
+Copied register: 21
+After register addition: 24
+After register multiplication: 72
+Round: 22
+Copied register: 22
+After register addition: 25
+After register multiplication: 75
+Round: 23
+Copied register: 23
+After register addition: 26
+After register multiplication: 78
+Round: 24
+Copied register: 24
+After register addition: 27
+After register multiplication: 81
+Round: 25
+Copied register: 25
+After register addition: 28
+After register multiplication: 84
+Round: 26
+Copied register: 26
+After register addition: 29
+After register multiplication: 87
+Round: 27
+Copied register: 27
+After register addition: 30
+After register multiplication: 90
+Round: 28
+Copied register: 28
+After register addition: 31
+After register multiplication: 93
+Round: 29
+Copied register: 29
+After register addition: 32
+After register multiplication: 96
+Round: 30
+Copied register: 30
+After register addition: 33
+After register multiplication: 99
+Round: 31
+Copied register: 31
+After register addition: 34
+After register multiplication: 102
+Round: 32
+Copied register: 32
+After register addition: 35
+After register multiplication: 105
+Round: 33
+Copied register: 33
+After register addition: 36
+After register multiplication: 108
+Round: 34
+Copied register: 34
+After register addition: 37
+After register multiplication: 111
+Round: 35
+Copied register: 35
+After register addition: 38
+After register multiplication: 114
